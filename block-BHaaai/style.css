@@ -1,11 +1,21 @@
 body{
-    background-color: blueviolet;
+    background-color:blue;
     color: aliceblue;
 }
 h2{
-    color: black;
+    color:green;
 }
 a{
     color: brown;
 }
-text-align: center
+.header{
+text-align: center;
+}
+.footer {
+    background-color: #11244d;
+    text-align: center;
+}
+.blog {
+width: 600px;
+margin: 0 auto;
+}
